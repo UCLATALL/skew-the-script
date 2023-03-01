@@ -1,4 +1,4 @@
-name: Skew the Script: Jupyter
+name: "Skew the Script: Jupyter"
 description: A Skew the Script book that is just a portal to a JupyterHub.
 sortOrder: 1
 dashboard:
